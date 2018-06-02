@@ -1,0 +1,1 @@
+<div style="text-align: center; font-size: 30px;">404 Страница не найдена</h1>

@@ -1,0 +1,5 @@
+# Запрещаем доступ к базе данных пользователям
+<Files "*.db">
+	order allow,deny
+	deny from all
+</Files>

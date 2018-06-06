@@ -28,7 +28,7 @@
 	<div id="body">
 		<?php
 			if (!$user['isAutorization']) {
-				if (!in_array($page, ["index", "login"])) {
+				if (!in_array($page, ["index", "login", "image"])) {
 					$page = 'login';
 				}
 			}
